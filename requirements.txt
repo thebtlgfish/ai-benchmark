@@ -1,0 +1,4 @@
+dotenv
+ollama
+requests
+datasets
